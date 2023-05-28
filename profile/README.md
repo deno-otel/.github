@@ -1,4 +1,4 @@
-![OpenTelemetry Logo](./opentelemetry-horizontal-color.svg)
+![OpenTelemetry Logo](/profile/opentelemetry-horizontal-color.svg)
 
 # Deno OpenTelemetry
 
